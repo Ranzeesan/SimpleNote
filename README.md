@@ -1,6 +1,9 @@
 # simple_not
 
-A new Flutter project.
+Project Simple NOTE
+Saifurrohman
+NIM 2006139
+Kelas D
 
 ## Getting Started
 
